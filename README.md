@@ -1,5 +1,4 @@
 # 1D-array
-Returning sum of 1D array
 public class Main
 {
 
